@@ -1,0 +1,18 @@
+form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 10px;
+    max-width: 200px;
+    margin: auto;
+    padding: 25px;
+    box-shadow: 5px 5px 20px rgb(63, 60, 60);
+}
+body{
+    background-color: rgb(184, 210, 234);
+}
+#box{
+    text-align: center;
+    
+}
+
