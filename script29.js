@@ -14,6 +14,6 @@ function generateQr() {
 	else { 
 		qrcode.makeCode( 
 			document.querySelector( 
-				"input"
+				"input"		
 			).value); 
 }}
